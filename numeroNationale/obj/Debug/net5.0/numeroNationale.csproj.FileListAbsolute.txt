@@ -1,0 +1,16 @@
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\bin\Debug\net5.0\numeroNationale.exe
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\bin\Debug\net5.0\numeroNationale.deps.json
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\bin\Debug\net5.0\numeroNationale.runtimeconfig.json
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\bin\Debug\net5.0\numeroNationale.runtimeconfig.dev.json
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\bin\Debug\net5.0\numeroNationale.dll
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\bin\Debug\net5.0\ref\numeroNationale.dll
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\bin\Debug\net5.0\numeroNationale.pdb
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\obj\Debug\net5.0\numeroNationale.csproj.AssemblyReference.cache
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\obj\Debug\net5.0\numeroNationale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\obj\Debug\net5.0\numeroNationale.AssemblyInfoInputs.cache
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\obj\Debug\net5.0\numeroNationale.AssemblyInfo.cs
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\obj\Debug\net5.0\numeroNationale.csproj.CoreCompileInputs.cache
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\obj\Debug\net5.0\numeroNationale.dll
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\obj\Debug\net5.0\ref\numeroNationale.dll
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\obj\Debug\net5.0\numeroNationale.pdb
+C:\Users\night\OneDrive\Documents\cSharp\numeroNationale\numeroNationale\obj\Debug\net5.0\numeroNationale.genruntimeconfig.cache
